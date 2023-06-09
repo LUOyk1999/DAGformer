@@ -1,0 +1,14 @@
+numpy
+scipy
+networkx
+scikit_learn
+torchvision
+python-igraph
+gensim
+tqdm
+pandas
+einops
+ogb
+gtrick
+rdkit
+matplotlib

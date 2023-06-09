@@ -1,0 +1,16 @@
+calzolari-etal-2012-lre	calzolari-etal-2010-lrec	0.5
+cattoni-etal-2002-adam	W00-1002	0.5
+L16-1401	soria-etal-2012-flarenet	0.845963
+L18-1656	L16-1518	0.783333
+lenci-etal-2000-opposites	W99-0407	0.5
+P06-2106	francopoulo-etal-2006-lexical	0.861995
+savas-etal-2010-lmf	francopoulo-etal-2006-lexical	0.5
+savas-etal-2010-lmf	W06-1003	0.5
+soria-etal-2006-moving	francopoulo-etal-2006-lexical	0.5
+tokunaga-etal-2008-adapting	P06-2106	0.5
+tokunaga-etal-2008-adapting	francopoulo-etal-2006-lexical	0.5
+W06-1001	francopoulo-etal-2006-lexical	0.5
+W09-3421	francopoulo-etal-2006-lexical	0.857972
+W09-3421	P06-2106	0.822025
+W09-3421	tokunaga-etal-2008-adapting	0.730656
+W09-3421	W06-1001	0.5

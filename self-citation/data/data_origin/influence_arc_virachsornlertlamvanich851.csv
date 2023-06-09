@@ -1,0 +1,13 @@
+C00-2116	C96-2208	0.5
+H01-1070	C00-2116	0.737742
+I08-1052	C94-1091	0.807876
+P00-1078	C00-2116	0.878362
+P06-2106	C94-1091	0.485541
+sornlertlamvanich-etal-2010-language	I08-2091	0.5
+tokunaga-etal-2008-adapting	P06-2106	0.5
+tokunaga-etal-2008-adapting	I08-1052	0.5
+tongchim-etal-2008-dependency	kruengkrai-etal-2006-conditional	0.5
+W02-1605	C00-2116	0.5
+W09-3420	I08-2091	0.885731
+W09-3421	P06-2106	0.822025
+W09-3421	tokunaga-etal-2008-adapting	0.730656

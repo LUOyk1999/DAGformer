@@ -1,0 +1,17 @@
+2013.mtsummit-posters.4	W11-2104	0.915377
+2020.wmt-1.38	W18-6436	0.851368
+avramidis-etal-2012-involving	W11-2104	0.5
+avramidis-etal-2012-involving	2011.eamt-1.36	0.5
+avramidis-etal-2014-taraxu	avramidis-etal-2012-involving	0.5
+avramidis-etal-2014-taraxu	2013.mtsummit-posters.5	0.5
+burchardt-etal-2006-salsa	burchardt-etal-2006-salto	0.5
+burchardt-pennacchiotti-2008-fate	burchardt-etal-2006-salto	0.5
+burchardt-pennacchiotti-2008-fate	burchardt-etal-2006-salsa	0.5
+burchardt-pennacchiotti-2008-fate	W07-1402	0.5
+I08-1051	burchardt-etal-2006-salsa	0.931521
+L16-1296	W15-5705	0.838417
+W15-3004	W11-2104	0.900755
+W16-2329	W15-3004	0.893586
+W16-2329	avramidis-etal-2012-involving	0.5
+W16-6404	W16-2329	0.864384
+W18-6436	L18-1142	0.707008

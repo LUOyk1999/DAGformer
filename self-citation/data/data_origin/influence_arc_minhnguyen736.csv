@@ -1,0 +1,12 @@
+2021.eacl-demos.10	2021.wanlp-1.27	0.682957
+2021.emnlp-main.439	2021.naacl-main.3	0.814374
+2021.emnlp-main.440	2021.naacl-main.3	0.849686
+2021.emnlp-main.440	2021.eacl-demos.10	0.727369
+2021.emnlp-main.440	2021.wanlp-1.27	0.887473
+2021.mrl-1.6	2021.emnlp-main.440	0.841117
+2021.mrl-1.6	2021.eacl-demos.10	0.779685
+2021.mrl-1.6	2021.wanlp-1.27	0.840068
+2021.wanlp-1.27	2020.findings-emnlp.409	0.795913
+2021.wanlp-1.27	2021.eacl-demos.10	0.620789
+2021.wnut-1.5	2021.naacl-main.3	0.820189
+C04-1107	Y03-1033	0.750683

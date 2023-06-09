@@ -1,0 +1,16 @@
+jarborg-etal-2002-lexical	S01-1011	0.5
+jarborg-etal-2002-lexical	kokkinakis-etal-2000-annotating	0.5
+kokkinakis-2006-collection	E99-1035	0.5
+kokkinakis-2008-mesh	kokkinakis-dannells-2006-recognizing	0.5
+kokkinakis-2008-mesh	kokkinakis-2008-semantically	0.5
+kokkinakis-2008-semantically	kokkinakis-2006-collection	0.5
+kokkinakis-2008-semantically	kokkinakis-dannells-2006-recognizing	0.5
+kokkinakis-dannells-2006-recognizing	kokkinakis-2006-collection	0.5
+kokkinakis-etal-2000-annotating	E99-1035	0.5
+kokkinakis-etal-2014-hfst	W98-1603	0.5
+kokkinakis-gerdin-2010-swedish	W09-4505	0.5
+S01-1022	kokkinakis-etal-2000-annotating	0.5
+W01-1713	E99-1035	0.5
+W11-4206	E99-1035	0.783088
+W11-4206	kokkinakis-gerdin-2010-swedish	0.897582
+W19-3012	W17-0220	0.72325
