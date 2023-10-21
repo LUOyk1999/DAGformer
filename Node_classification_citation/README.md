@@ -18,7 +18,5 @@ tar -xzvf citeseer.tgz
 sh run_cora.sh
 # citeseer
 sh run_citeseer.sh
-# pubmed (It takes some time to process pubmed.)
-sh run_pubmed.sh
 ```
 
