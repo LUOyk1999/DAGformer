@@ -2,8 +2,6 @@
 
 The repository implements the [Transformer over Directed Acyclic Graph](https://openreview.net/forum?id=g49s1N5nmO) (DAG transformer) in Pytorch Geometric.
 
-![DAG_poster](https://raw.githubusercontent.com/LUOyk1999/images/main/images/DAG_poster.png)
-
 ## Installation
 Tested with Python 3.7, PyTorch 1.13.1, and PyTorch Geometric 2.3.1.
 
@@ -23,3 +21,6 @@ pip install -r requirements.txt
 
 * `./Node_classification_citation` Experiment code over the `Cora, Citeseer, Pubmed` datasets.
 
+## Poster
+
+![DAG_poster](https://raw.githubusercontent.com/LUOyk1999/images/main/images/DAG_poster.png)
