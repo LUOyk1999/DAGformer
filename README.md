@@ -21,6 +21,21 @@ pip install -r requirements.txt
 
 * `./Node_classification_citation` Experiment code over the `Cora, Citeseer, Pubmed` datasets.
 
+## Reference
+
+If you find our codes useful, please consider citing our work
+
+```
+@inproceedings{
+luo2023transformers,
+title={Transformers over Directed Acyclic Graphs},
+author={Yuankai Luo and Veronika Thost and Lei Shi},
+booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+year={2023},
+url={https://openreview.net/forum?id=g49s1N5nmO}
+}
+```
+
 ## Poster
 
 ![DAG_poster](https://raw.githubusercontent.com/LUOyk1999/images/main/images/DAG_poster.png)
