@@ -230,6 +230,8 @@ def load_planetoid_dataset(data_dir, name, dag):
                 except:
                     continue
             # print(new_G.number_of_edges())
+            new_G_undirected = new_G.to_undirected()
+            edge_index_undirected = from_networkx(new_G_undirected).edge_index
             cycles = nx.simple_cycles(new_G)
             # print(len(list(cycles)))
             count=0 
@@ -242,8 +244,6 @@ def load_planetoid_dataset(data_dir, name, dag):
                 except nx.exception.NetworkXNoCycle:
                     break
             print(new_G.number_of_edges())
-            new_G_undirected = new_G.to_undirected()
-            edge_index_undirected = from_networkx(new_G_undirected).edge_index
             # print(node_data.iloc[14])
             tx = torch.from_numpy(node_data.values[:,:3703])
             y = torch.from_numpy(node_data.values[:,-1])
