@@ -29,6 +29,7 @@ class Attention(gnn.MessagePassing):
         self.gnn_type = gnn_type
         self.structure_extractor = StructureExtractor(embed_dim, gnn_type=gnn_type, **kwargs)
         self.attend = nn.Softmax(dim=-1)
+        self.batch_first = False
 
         self.symmetric = symmetric
         if symmetric:
