@@ -4,6 +4,7 @@ import copy
 import argparse
 import numpy as np
 import pandas as pd
+from tqdm import tqdm
 from collections import defaultdict
 
 import torch
@@ -125,7 +126,7 @@ def train_epoch(model, loader, criterion, optimizer, lr_scheduler, epoch, use_cu
     running_loss = 0.0
 
     tic = timer()
-    for i, data in enumerate(loader):
+    for i, data in enumerate(tqdm(loader)):
         size = len(data.y)
         if epoch < args.warmup:
             iteration = epoch * len(loader) + i
